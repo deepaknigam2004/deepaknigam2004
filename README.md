@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there, I'm Deepak Nigam!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Code+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Problem+Solver;Code+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 🔭 **Currently working on:** Full-stack web applications and mobile development
 
-🌱 **Learning:** Advanced React, Cloud Technologies, and System Design
+🌱 **Learning:** Cloud Technologies, AI Tools, Prompt, and System Design
 
 👨‍💻 **Experience:** Building scalable applications with modern tech stack
 
@@ -83,7 +83,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepaknigam2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepaknigam2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaknigam2004&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
@@ -103,8 +103,8 @@
   
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/deepak0810)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/deepaknigam)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/deepaknigam2004)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/deepaknigam2004)
+<!-- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/deepaknigam2004)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/deepaknigam2004) -->
 
 </div>
 
@@ -117,8 +117,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepaknigam2004)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepaknigam2004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepaknigam2004)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deepaknigam.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deepaknigam2004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-f4327.web.app)
 
 </div>
 
@@ -132,13 +131,14 @@
 
 ---
 
-## 🎵 Spotify Playing
+<!-- ## 🎵 Spotify Playing
 
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=628fdb" alt="Spotify Now Playing" width="350" />
 </div>
 
 ---
+-->
 
 ## 🔥 Streak Stats
 
